@@ -1,3 +1,6 @@
+# Tugas UAS DAA 
+## oleh Afdhala Febryanza Nim 170155201039 dan Fikri Wibowo Nim 170155201021
+
 # Path-Finding-AI-Using-Python
 A minimum distance path finding algorithm between two points using modified Dijkstra algorithm. Language used is python and tkinter library is used for user interface.
 
